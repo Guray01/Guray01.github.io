@@ -316,4 +316,5 @@ TOPLULUĞUMUZA KATILIN</p>
    Bu tavsiyeler mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. <br>
    Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi beklentilerinize uygun sonuçlar doğurmayabilir.</p>
   
-  </div>
+									  </div>
+									  </html>
