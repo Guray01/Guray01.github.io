@@ -25,14 +25,14 @@ ul>li
 	display:inline; 
 	font-size:12px;
 	border-right:1px solid black;
-	padding-right:5px;
+	padding-right:2px;
 }
 .logo
 {
         display:inline; 
 	background:yellow; 
-	margin-right:5%;
-	font-size:34px;
+	margin-right:2%;
+	font-size:30px;
 	cursor:pointer;
 	font-family:Perpetua;
 	border:5px ridge blue;
