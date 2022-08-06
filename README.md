@@ -16,20 +16,20 @@ body{margin:0;}
   
 ul>li>a
 {
-    writing-mode:horizontal-tb;
+        writing-mode:horizontal-tb;
 	text-decoration:none;
 }
 ul>li
 {
-    list-style-type:none; 
+        list-style-type:none; 
 	display:inline; 
-	font-size:8px;
+	font-size:12px;
 	border-right:1px solid black;
 	padding-right:5px;
 }
 .logo
 {
-    display:inline; 
+        display:inline; 
 	background:yellow; 
 	margin-right:5%;
 	font-size:34px;
@@ -39,19 +39,19 @@ ul>li
 	border-radius:30px;
 	padding:1px 30px;
 	position:relative;
-    animation-name:logo;
-    animation-duration:30s;
-    animation-iteration-count:infinite;
+        animation-name:logo;
+        animation-duration:30s;
+        animation-iteration-count:infinite;
 }
 @keyframes logo
 {
     10% {left:0; top:0;}
-    50% {left:150; top:0px;}
+    50% {left:150px; top:0;}
     100% {left:0; top:0;}
 }
 ul
 {
-    background:yellow; 
+        background:yellow; 
 	padding:10px; 
 	letter-spacing:3px;
 	word-spacing:10px;
@@ -63,7 +63,7 @@ ul
 .baslık1
 {
 
-margin-top:0px;
+margin-top:0;
 color:white;
 }
 h2{color:white; background:black;}
@@ -118,7 +118,7 @@ Bizler Küçük yatırımcı terimini inkâr eden asileriz, bizim için K.Y yok,
 
 <footer class="foot">
  <div class="sosyal">
-   <img class="telegrmm" src="tlg.png" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmm" src="ınsss.png" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmmm" src="twt.png" width="55px; height="55px; alt="gogo"/>
-   <img class="telegrmmmmm" src="whtsap.png" width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmm" src="tlg.png" width="50px" height="50px"/>
+   <img class="telegrmmm" src="ınsss.png" width="50px" height="50px"/>
+   <img class="telegrmmmm" src="twt.png" width="55px" height="55px"/>
+   <img class="telegrmmmmm" src="whtsap.png" width="55px" height="55px"/>
