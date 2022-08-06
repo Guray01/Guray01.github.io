@@ -173,7 +173,7 @@ ul
 {
     box-shadow:0 2px 0 3px; color:yellow;
 }
-.takım{color:yellow; font-size:66px; text-align:center; font-family:perpetua;}
+.takım{color:black; font-size:66px; text-align:center; font-family:perpetua;}
 .tanıtım
 {
   color:black; 
@@ -303,10 +303,10 @@ TOPLULUĞUMUZA KATILIN</p>
   </div>
   
 <div class="son">
-   <img class="telegrmm" src="tlg.png" <a href="https://www.borsaglobaltrader.com/" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmm" src="ınsss.png" <a href="https://www.borsaglobaltrader.com/" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmmm" src="twt.png" <a href="https://www.borsaglobaltrader.com/" width="55px; height="55px; alt="gogo"/>
-   <img class="telegrmmmmm" src="whtsap.png" <a href="https://www.borsaglobaltrader.com/" width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmm" src="tlg.png"  width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmm" src="ınsss.png"  width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmmm" src="twt.png"  width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmmmmm" src="whtsap.png"  width="55px; height="55px; alt="gogo"/>
    <p class="uyarı">Piyasası Kurulunun <br>
    "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar"<br>
    Hakkında Tebliği Uyarınca Yayınlanması Zorunlu Olan Uyarı Notu: <br>
