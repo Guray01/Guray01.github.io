@@ -304,9 +304,9 @@ TOPLULUĞUMUZA KATILIN</p>
   
 <div class="son">
    <img class="telegrmm" src="tlg.png" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmm" src="ınsss.png"/>
-   <img class="telegrmmmm" src="twt.png"/>
-   <img class="telegrmmmmm" src="whtsap.png"/>
+   <img class="telegrmmm" src="ınsss.png" width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmmm" src="twt.png" width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmmmm" src="whtsap.png" width="50px; height="50px; alt="gogo"/>
    <p class="uyarı">Piyasası Kurulunun <br>
    "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar"<br>
    Hakkında Tebliği Uyarınca Yayınlanması Zorunlu Olan Uyarı Notu: <br>
