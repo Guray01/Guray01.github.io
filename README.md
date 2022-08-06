@@ -4,9 +4,10 @@
       rel="stylesheet">
 <html>
   <head>
-      <title>BORSA GLOBAL</title>
+      <title>BORSA GLOBAL<title>
  <style>
  </style>
  <body>
 	 <h1>borsa global<h1>
+		 </html>
 		  
