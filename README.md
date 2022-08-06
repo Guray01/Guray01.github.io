@@ -31,7 +31,7 @@ ul>li
 {
     display:inline; 
 	background:yellow; 
-	margin-right:11%;
+	margin-right:5%;
 	font-size:34px;
 	cursor:pointer;
 	font-family:Perpetua;
@@ -92,7 +92,7 @@ h2{color:white; background:black;}
     </ul>
    </div>
   
-<img class="t" src="rrr.jpg" width="350px; height="150px; alt="gogo"/>
+<img class="t" src="rrr.jpg" width="350px; height="150px;/>
 
 <div class="fon">
 <h1 class="baslık1">HAKKIMIZDA</h1>
