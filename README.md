@@ -188,10 +188,6 @@ ul
   color:white;
   margin-left:10px;
 }
-.telegrmm{margin-right:25px;}
-.telegrmmm{margin-right:25px;}
-.telegrmmmm{margin-right:25px;}
-.telegrmmmmm{margin-right:25px;}
 
 .son
 {
