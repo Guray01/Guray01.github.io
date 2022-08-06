@@ -92,7 +92,7 @@ h2{color:white; background:black;}
     </ul>
    </div>
   
-<img class="t" src="rrr.jpg" width="350px; height="150px;/>
+<img class="t" src="rrr.jpg" width="350px" height="150px"/>
 
 <div class="fon">
 <h1 class="baslık1">HAKKIMIZDA</h1>
