@@ -46,7 +46,7 @@ ul>li
 @keyframes logo
 {
     10% {left:0; top:0;}
-    50% {left:150px; top:0;}
+    50% {left:50px; top:0;}
     100% {left:0; top:0;}
 }
 ul
@@ -92,7 +92,7 @@ h2{color:white; background:black;}
     </ul>
    </div>
   
-<img class="t" src="rrr.jpg" width="350px" height="150px"/>
+<img class="t" src="rrr.jpg" width="350px" height="250px"/>
 
 <div class="fon">
 <h1 class="baslık1">HAKKIMIZDA</h1>
