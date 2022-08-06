@@ -92,7 +92,7 @@ h2{color:white; background:black;}
     </ul>
    </div>
   
-<img class="t" src="rrr.jpg" <a href="https://www.borsaglobaltrader.com/" width="350px; height="150px; alt="gogo"/>
+<img class="t" src="rrr.jpg" width="350px; height="150px; alt="gogo"/>
 
 <div class="fon">
 <h1 class="baslık1">HAKKIMIZDA</h1>
