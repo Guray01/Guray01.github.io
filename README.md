@@ -23,7 +23,7 @@ ul>li
 {
     list-style-type:none; 
 	display:inline; 
-	font-size:18px;
+	font-size:8px;
 	border-right:1px solid black;
 	padding-right:5px;
 }
@@ -118,7 +118,7 @@ Bizler Küçük yatırımcı terimini inkâr eden asileriz, bizim için K.Y yok,
 
 <footer class="foot">
  <div class="sosyal">
-   <img class="telegrmm" src="tlg.png" <a href="https://www.borsaglobaltrader.com/" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmm" src="ınsss.png" <a href="https://www.borsaglobaltrader.com/" width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmmm" src="twt.png" <a href="https://www.borsaglobaltrader.com/" width="55px; height="55px; alt="gogo"/>
-   <img class="telegrmmmmm" src="whtsap.png" <a href="https://www.borsaglobaltrader.com/" width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmm" src="tlg.png" width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmm" src="ınsss.png" width="50px; height="50px; alt="gogo"/>
+   <img class="telegrmmmm" src="twt.png" width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmmmmm" src="whtsap.png" width="55px; height="55px; alt="gogo"/>
