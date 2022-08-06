@@ -303,7 +303,7 @@ TOPLULUĞUMUZA KATILIN</p>
   </div>
   
 <div class="son">
-   <img class="telegrmm" src="tlg.png"/>
+   <img class="telegrmm" src="tlg.png"  width="50px" height="50px" />
    <img class="telegrmmm" src="ınsss.png"/>
    <img class="telegrmmmm" src="twt.png"/>
    <img class="telegrmmmmm" src="whtsap.png"/>
