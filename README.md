@@ -303,10 +303,10 @@ TOPLULUĞUMUZA KATILIN</p>
   </div>
   
 <div class="son">
-   <img class="telegrmm" src="tlg.png"  width="50px" height="50px"/>
-   <img class="telegrmmm" src="ınsss.png"  width="50px" height="50px"/>
-   <img class="telegrmmmm" src="twt.png"  width="55px" height="55px"/>
-   <img class="telegrmmmmm" src="whtsap.png"  width="55px" height="55px"/>
+   <img class="telegrmm" src="tlg.png"/>
+   <img class="telegrmmm" src="ınsss.png"/>
+   <img class="telegrmmmm" src="twt.png"/>
+   <img class="telegrmmmmm" src="whtsap.png"/>
    <p class="uyarı">Piyasası Kurulunun <br>
    "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar"<br>
    Hakkında Tebliği Uyarınca Yayınlanması Zorunlu Olan Uyarı Notu: <br>
