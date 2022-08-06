@@ -23,7 +23,7 @@ ul>li
 {
         list-style-type:none; 
 	display:inline; 
-	font-size:12px;
+	font-size:10px;
 	border-right:1px solid black;
 	padding-right:2px;
 }
@@ -32,12 +32,12 @@ ul>li
         display:inline; 
 	background:yellow; 
 	margin-right:2%;
-	font-size:30px;
+	font-size:24px;
 	cursor:pointer;
 	font-family:Perpetua;
 	border:5px ridge blue;
 	border-radius:30px;
-	padding:1px 30px;
+	padding:1px 20px;
 	position:relative;
         animation-name:logo;
         animation-duration:30s;
@@ -46,7 +46,7 @@ ul>li
 @keyframes logo
 {
     10% {left:0; top:0;}
-    50% {left:50px; top:0;}
+    50% {left:40px; top:0;}
     100% {left:0; top:0;}
 }
 ul
