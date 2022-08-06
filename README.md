@@ -303,10 +303,10 @@ TOPLULUĞUMUZA KATILIN</p>
   </div>
   
 <div class="son">
-   <img class="telegrmm" src="tlg.png"  width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmm" src="ınsss.png"  width="50px; height="50px; alt="gogo"/>
-   <img class="telegrmmmm" src="twt.png"  width="55px; height="55px; alt="gogo"/>
-   <img class="telegrmmmmm" src="whtsap.png"  width="55px; height="55px; alt="gogo"/>
+   <img class="telegrmm" src="tlg.png"  width="50px" height="50px"/>
+   <img class="telegrmmm" src="ınsss.png"  width="50px" height="50px"/>
+   <img class="telegrmmmm" src="twt.png"  width="55px" height="55px"/>
+   <img class="telegrmmmmm" src="whtsap.png"  width="55px" height="55px"/>
    <p class="uyarı">Piyasası Kurulunun <br>
    "Yatırım Hizmetleri ve Faaliyetleri İle Yan Hizmetlere İlişkin Esaslar"<br>
    Hakkında Tebliği Uyarınca Yayınlanması Zorunlu Olan Uyarı Notu: <br>
@@ -318,5 +318,5 @@ TOPLULUĞUMUZA KATILIN</p>
    Bu tavsiyeler mali durumunuz ile risk ve getiri tercihlerinize uygun olmayabilir. <br>
    Bu nedenle, sadece burada yer alan bilgilere dayanılarak yatırım kararı verilmesi beklentilerinize uygun sonuçlar doğurmayabilir.</p>
   
-									  </div>
-									  </html>
+</div>
+</html>
